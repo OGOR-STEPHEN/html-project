@@ -1,0 +1,9 @@
+Nav links and destinations
+
+STORE HOURS -:  Links to a new page(hours.html)
+
+HOME -: on the hours.html page links to the index.html
+
+CONTACT US -: Links to the contact.html page
+
+other links in the nav are domestic links.
